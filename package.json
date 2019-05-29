@@ -1,6 +1,6 @@
 {
   "name": "sly-fastify-sse",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Slytrunk Fork - Provide Server-Sent Events to Fastify",
   "main": "index.js",
   "scripts": {
